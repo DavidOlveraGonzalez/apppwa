@@ -1,6 +1,6 @@
 
 var url = window.location.href;
-var swLocation = '/tarea_final/sw.js';
+var swLocation = '/apppwa/sw.js';
 
 if(navigator.serviceWorker){
     if (url.includes('localhost')){
